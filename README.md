@@ -33,7 +33,7 @@ During Sprint 1 our focus was on delivering a shippable version of the WorkMap w
 
 ###Sprint 2
 
-During Sprint 2 our focus was improving the user experience by allowing a signed in user to apply for a job, registering a profile, and setting up a payment system for the signed in employers. The features we developed in this iteration are:
+During Sprint 2 our focus was improving the user experience by allowing a signed in user to apply for a job, registering a profile, and setting up a payment system for the signed in employers. The features we developed in this iteration (with less testing than we'd have liked, since we were constantly spiking in Javascript) are:
 
 	* Users can register accounts (linked with profile pictures and PDF resumes).
 	* Users can apply for jobs directly through the main page.
